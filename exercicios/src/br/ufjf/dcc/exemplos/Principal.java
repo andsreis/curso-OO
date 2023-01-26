@@ -20,7 +20,11 @@ public class Principal {
 		
 		Pessoa3.CPF = "754.854.548-35";
 		Funcionario funcionario1 = new Funcionario();
-		funcionario1.
+		funcionario1.nome = "Tio da limp.";
+		funcionario1.cargo = "Faxineiro";
+		funcionario1.matricula = "1234567-8";
+		
+		
 		
 
 		
